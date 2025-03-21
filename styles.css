@@ -1,2 +1,5 @@
-
+.holder{
+	display:flex;
+	flex-wrap:inline;
+}
 /* Your CSS Code here. */
